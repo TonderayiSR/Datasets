@@ -1,0 +1,61 @@
+Disease,Diarrhea,Fever,Respiratory signs,Decreased milk production,Reproductive issues,Blisters in the mouth,Blisters on the feet,Excessive salivation,Lameness,Swelling of the face,Swelling of the tongue,Nasal discharge
+Bovine Viral Diarrhea (BVD),1,1,1,1,1,0,0,0,0,0,0,0
+Bovine Viral Diarrhea (BVD),1,1,1,0,0,0,0,0,0,0,0,0
+Bovine Viral Diarrhea (BVD),1,1,0,1,1,0,0,0,0,0,0,1
+Bovine Viral Diarrhea (BVD),1,1,1,1,0,0,0,0,1,0,0,0
+Bovine Viral Diarrhea (BVD),1,0,1,1,1,0,0,0,0,0,0,1
+Bovine Viral Diarrhea (BVD),1,1,0,1,1,0,0,0,0,0,0,1
+Bovine Viral Diarrhea (BVD),1,1,1,0,1,0,0,0,0,1,0,0
+Bovine Viral Diarrhea (BVD),1,1,1,1,1,0,0,0,0,0,0,0
+Bovine Viral Diarrhea (BVD),1,0,1,1,0,0,0,0,1,0,0,1
+Bovine Viral Diarrhea (BVD),1,1,1,1,1,0,0,0,0,0,0,1
+Bovine Viral Diarrhea (BVD),1,1,1,0,1,0,0,1,0,0,0,0
+Bovine Viral Diarrhea (BVD),1,1,1,1,1,0,0,0,0,0,0,1
+Bovine Viral Diarrhea (BVD),1,0,1,1,1,0,0,0,0,0,1,0
+Bovine Viral Diarrhea (BVD),1,1,1,1,0,0,0,0,0,1,0,1
+Bovine Viral Diarrhea (BVD),1,1,1,1,1,0,0,0,0,0,0,1
+Bovine Viral Diarrhea (BVD),1,1,0,1,1,0,0,0,0,1,1,0
+Bovine Viral Diarrhea (BVD),1,1,1,1,0,0,0,1,0,0,0,1
+Bovine Viral Diarrhea (BVD),1,0,1,1,0,0,0,0,1,0,0,0
+Bovine Viral Diarrhea (BVD),1,1,1,1,1,0,0,0,0,1,0,0
+Bovine Viral Diarrhea (BVD),1,1,1,1,1,0,0,0,0,0,1,1
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,1,1,0,0,0
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,1,1,0,0,0
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,1,1,1,0,0
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,1,1,0,1,0
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,1,1,0,0,1
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,0,1,1,0,0
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,0,1,1,1,0,0,1
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,0,0,0,1,1
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,1,1,1,1,0
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,0,1,1,0,0,1
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,1,0,0,1,0
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,0,1,1,1,0,0
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,0,1,1,1,0
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,1,1,0,1,1
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,0,1,1,0,0
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,0,1,1,1,1,0
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,0,0,0,1,1
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,1,0,0,0,1
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,1,1,1,0,0
+Foot-and-Mouth Disease (FMD),0,1,0,0,0,1,1,1,1,1,1,1
+Bluetongue Virus,0,1,0,0,0,0,0,0,0,1,1,1
+Bluetongue Virus,0,1,0,0,0,1,0,0,0,1,1,1
+Bluetongue Virus,0,1,0,0,0,0,1,0,0,1,1,1
+Bluetongue Virus,0,1,0,0,0,1,1,0,0,1,1,1
+Bluetongue Virus,0,1,0,0,0,0,0,1,0,1,1,1
+Bluetongue Virus,0,1,0,0,0,1,0,1,0,1,1,1
+Bluetongue Virus,0,1,0,0,0,0,1,1,0,1,1,1
+Bluetongue Virus,0,1,0,0,0,1,1,1,0,1,1,1
+Bluetongue Virus,0,1,0,0,0,0,0,0,1,1,1,1
+Bluetongue Virus,0,1,0,0,0,0,1,1,1,1,1,1
+Bluetongue Virus,0,1,0,0,0,1,0,0,1,1,1,1
+Bluetongue Virus,0,1,0,0,0,1,1,0,1,1,1,1
+Bluetongue Virus,0,1,0,0,0,0,1,1,1,1,1,1
+Bluetongue Virus,0,1,0,0,0,1,0,1,1,1,1,1
+Bluetongue Virus,0,1,0,0,0,0,0,0,1,1,1,1
+Bluetongue Virus,0,1,0,0,0,1,1,1,1,1,1,1
+Bluetongue Virus,0,1,0,0,0,1,1,0,1,1,1,1
+Bluetongue Virus,0,1,0,0,0,0,0,0,0,1,1,1
+Bluetongue Virus,0,1,0,0,0,1,1,1,0,1,1,1
+Bluetongue Virus,0,1,0,0,0,0,0,0,0,1,1,1
