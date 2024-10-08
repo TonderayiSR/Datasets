@@ -1,6 +1,0 @@
-Fever,Swollen lymph nodes,Loss of appetite,Weakness and anemia,Difficulty breathing,Death if untreated,High fever,Anemia,Jaundice (yellowing),Hemoglobinuria (red/brown urine),Weakness and lethargy,Nervous signs,Fluid in lungs,Sudden death,Weight loss,Reduced milk production,Diarrhea,Poor growth,Bloated abdomen,Disease
-1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Theileriosis
-1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Babesiosis
-1,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,Heartwater
-1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,Anaplasmosis
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Toxocariasis
